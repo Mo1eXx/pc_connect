@@ -1,0 +1,5 @@
+venv
+.env
+.idea
+all_pc.txt
+db.sqlite
